@@ -15,10 +15,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.16.0",
+    "prop-types": "^15.5.4",
+    "query-string": "^4.3.4",
     "react": "^16.0.0-alpha.5",
     "react-dom": "^16.0.0-alpha.5",
-    "react-router-dom": "^4.1.1"
+    "react-router-dom": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
@@ -30,12 +32,5 @@
     "style-loader": "^0.16.0",
     "webpack": "^2.3.1",
     "webpack-dev-server": "^2.4.2"
-  },
-  "dependencies": {
-    "axios": "^0.16.0",
-    "prop-types": "^15.5.4",
-    "react": "^16.0.0-alpha.5",
-    "react-dom": "^16.0.0-alpha.5",
-    "react-router-dom": "^4.0.0"
   }
 }
